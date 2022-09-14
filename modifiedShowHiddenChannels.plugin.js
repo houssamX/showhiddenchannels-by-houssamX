@@ -1,5 +1,5 @@
 /**
- * @name modifiedShowHiddenChannels
+ * @name ModifiedShowHiddenChannels
  * @author houssamX
  * @version 0.0.1
  * @description modified by houssamX enjoy
@@ -11,7 +11,7 @@
 module.exports = (_ => {
 	const config = {
 		"info": {
-			"name": "modifiedShowHiddenChannels",
+			"name": "ModifiedShowHiddenChannels",
 			"author": "houssamX",
 			"version": "0.0.1",
 			"description": "modified by houssamX enjoy"
