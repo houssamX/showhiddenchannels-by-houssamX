@@ -16,7 +16,7 @@ module.exports = (() => {
       "authors": [{
         "name": "houssamX",
       }],
-      "description": "A plugin which displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible).",
+      "description": "fix after betterdiscord problem",
       "version": "0.0.3",
       "github": "modified by houssamX enjoy",
       "github_raw": "https://raw.githubusercontent.com/houssamX/showhiddenchannels-by-houssamX/main/modifiedShowHiddenChannels.plugin.js"
