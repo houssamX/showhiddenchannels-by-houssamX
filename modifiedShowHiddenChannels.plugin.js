@@ -8,13 +8,16 @@
  * @updateUrl https://raw.githubusercontent.com/houssamX/showhiddenchannels-by-houssamX/main/modifiedShowHiddenChannels.plugin.js
  */
 
-module.exports = (_ => {
-	const config = {
-		"info": {
+module.exports = (() => {
+
+  const config = {
+    "info": {
 			"name": "ModifiedShowHiddenChannels",
 			"author": "houssamX",
-			"version": "0.0.1",
+			"version": "0.0.3",
 			"description": "modified by houssamX enjoy"
+                        "github": "https://github.com/JustOptimize/return-ShowHiddenChannels",
+                        "github_raw": "https://raw.githubusercontent.com/JustOptimize/return-ShowHiddenChannels/main/ShowHiddenChannels.plugin.js"
 		},
     changelog: [
       {
