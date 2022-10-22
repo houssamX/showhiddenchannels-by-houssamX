@@ -18,7 +18,7 @@ module.exports = (() => {
       }],
       "description": "fix after betterdiscord problem",
       "version": "0.0.3",
-      "github": "modified by houssamX enjoy",
+      "github": "https://raw.githubusercontent.com/houssamX/",
       "github_raw": "https://raw.githubusercontent.com/houssamX/showhiddenchannels-by-houssamX/main/modifiedShowHiddenChannels.plugin.js"
     },
     changelog: [
